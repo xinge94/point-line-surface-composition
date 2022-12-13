@@ -4,7 +4,7 @@ A application for point-line-surface composition based on visual balance.
 
 ![point-line-surface composition](./images/display.jpg)
 
-## Game rule 
+## Using instruction
 
 - There are three elements on the interface: point line and surface.
 - Point, line and surface are indicated in black.
